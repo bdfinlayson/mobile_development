@@ -1,15 +1,15 @@
 //
-//  Assignment1Tests.swift
-//  Assignment1Tests
+//  Assignment_1Tests.swift
+//  Assignment 1Tests
 //
-//  Created by Bryan Finlayson on 9/11/16.
+//  Created by Bryan Finlayson on 9/19/16.
 //  Copyright © 2016 Bryan Finlayson. All rights reserved.
 //
 
 import XCTest
-@testable import Assignment1
+@testable import Assignment_1
 
-class Assignment1Tests: XCTestCase {
+class Assignment_1Tests: XCTestCase {
     
     override func setUp() {
         super.setUp()

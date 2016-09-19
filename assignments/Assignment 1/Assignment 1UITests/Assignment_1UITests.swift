@@ -1,14 +1,14 @@
 //
-//  Assignment1UITests.swift
-//  Assignment1UITests
+//  Assignment_1UITests.swift
+//  Assignment 1UITests
 //
-//  Created by Bryan Finlayson on 9/11/16.
+//  Created by Bryan Finlayson on 9/19/16.
 //  Copyright © 2016 Bryan Finlayson. All rights reserved.
 //
 
 import XCTest
 
-class Assignment1UITests: XCTestCase {
+class Assignment_1UITests: XCTestCase {
         
     override func setUp() {
         super.setUp()

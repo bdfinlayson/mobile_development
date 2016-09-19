@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  Assignment1
+//  Assignment 1
 //
-//  Created by Bryan Finlayson on 9/11/16.
+//  Created by Bryan Finlayson on 9/19/16.
 //  Copyright © 2016 Bryan Finlayson. All rights reserved.
 //
 
